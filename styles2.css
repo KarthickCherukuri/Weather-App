@@ -1,0 +1,23 @@
+.heading{
+    background-color:aquamarine;
+    margin:0px;
+    align-items: center;
+    height: 70px;
+    text-align: left;
+}
+hr{
+    margin: 2px;
+    color: red;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    
+
+}
+.box{
+    width: auto;
+    border-radius: 20px;
+    height: 250px;
+    padding: 20px;
+}
